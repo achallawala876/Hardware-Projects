@@ -1,0 +1,1 @@
+I plan to extend this project with a TMS320F28379D or STM32 microcontroller and added sensor capabilities with a web interface.
